@@ -26,9 +26,25 @@ We will collaborate to append additional content after completing each notebook.
 
 - Lesson Notebooks
   
-  - [00-Calculatrice](./PYTHON/00-calculatrice.ipynb)
-
+  - [00 - Calculatrice](./PYTHON/00-calculatrice.ipynb)
+  
+  - [01 - Morse](./PYTHON/01-morse.ipynb)
+  
+  - [02 - Arbre de Noël](./PYTHON/02-arbre-noel.ipynb)
+  
+  - [03 - Objets et Classes](./PYTHON/03-objets-classes.ipynb)
+  
+  - [04 - Dictionnaires](./PYTHON/04-dictionnaires.ipynb) 
+  
 - Revised Notebooks
+
+  - [00 - Calculatrice : Correction](./PYTHON/00-calculatrice_correction.ipynb)
+  
+  - [01 - Morse : Correction](./PYTHON/01-morse_correction.ipynb)
+  
+  - [02 - Arbre de Noël : Correction](./PYTHON/02-arbre-noel_correction.ipynb)
+  
+  - [03 - Objets et Classes : Correction](./PYTHON/03-objets-classes_correction.ipynb)
 
 ---
 
